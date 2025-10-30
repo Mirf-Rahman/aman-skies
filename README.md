@@ -91,4 +91,3 @@ npm run preview   # serve dist/ locally
 
 Parameters: `appid`, `q` or `lat/lon`, `units` (`metric` or `imperial`).
 
-Built for clarity and speed. Enjoy Aman Skies.
