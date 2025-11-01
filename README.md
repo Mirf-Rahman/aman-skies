@@ -4,7 +4,7 @@
 
 Prayer-aware daily outlook: real-time conditions, 5-day/3-hour forecasts, charts, air quality, and alerts — built with **React 18 + TypeScript + Vite**.
 
-<p><a href="https://weather-app-mir.vercel.app/" target="_blank"><strong>🌐Live Demo (Vercel)</strong></a></p>
+<p><a href="https://weather-app-mir.vercel.app/" target="_blank"><strong>Live Demo (Vercel)</strong></a></p>
 
 </div>
 
